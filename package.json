@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/AntonLapshin/typescript-ui-blocks#readme",
   "devDependencies": {
+    "tslint": "^5.4.3",
     "typescript": "^2.3.4"
   }
 }
