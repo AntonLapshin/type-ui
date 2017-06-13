@@ -1,0 +1,29 @@
+{
+  "name": "typescript-ui-blocks",
+  "version": "1.0.0",
+  "description": "TypeScript light-weight framework for building UI blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "./node_modules/typescript/bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonLapshin/typescript-ui-blocks.git"
+  },
+  "keywords": [
+    "typescript",
+    "ui",
+    "blocks",
+    "components"
+  ],
+  "author": "AntonLapshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonLapshin/ttypescript-ui-blocks/issues"
+  },
+  "homepage": "https://github.com/AntonLapshin/typescript-ui-blocks#readme",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  }
+}
