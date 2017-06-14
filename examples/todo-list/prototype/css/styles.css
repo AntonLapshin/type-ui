@@ -1,0 +1,19 @@
+body {
+  background-color: #fafafa;
+  padding: 2em;
+}
+body .todo-list .header, body .todo-list .item {
+  padding: 1em;
+}
+body .todo-list .header {
+  font-size: 1.5em;
+}
+body .todo-list .item {
+  cursor: pointer;
+}
+body .todo-list .item:hover {
+  background-color: #f3f3f3;
+}
+body .todo-list .item.completed > label {
+  text-decoration: line-through;
+}

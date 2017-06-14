@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/AntonLapshin/typescript-ui-blocks#readme",
   "devDependencies": {
+    "@types/jquery": "^2.0.46",
+    "jquery": "^3.2.1",
     "tslint": "^5.4.3",
     "typescript": "^2.3.4"
   }
