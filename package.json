@@ -1,5 +1,5 @@
 {
-  "name": "typescript-ui-blocks",
+  "name": "typescript-dom",
   "version": "1.0.0",
   "description": "TypeScript light-weight framework for building UI blocks",
   "main": "index.js",
@@ -9,20 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntonLapshin/typescript-ui-blocks.git"
+    "url": "git+https://github.com/AntonLapshin/typescript-dom.git"
   },
   "keywords": [
     "typescript",
-    "ui",
-    "blocks",
-    "components"
+    "dom"
   ],
   "author": "AntonLapshin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AntonLapshin/ttypescript-ui-blocks/issues"
+    "url": "https://github.com/AntonLapshin/ttypescript-dom/issues"
   },
-  "homepage": "https://github.com/AntonLapshin/typescript-ui-blocks#readme",
+  "homepage": "https://github.com/AntonLapshin/typescript-dom#readme",
   "devDependencies": {
     "@types/jquery": "^2.0.46",
     "jquery": "^3.2.1",

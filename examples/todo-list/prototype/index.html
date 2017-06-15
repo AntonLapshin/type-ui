@@ -26,13 +26,15 @@
     <div class="header light-blue darken-2 white-text">
       <span>ToDo List</span>
     </div>
-    <div class="item completed">
-      <input checked="checked" type="checkbox" id="todo1" />
-      <label for="todo1">Learn React</label>
-    </div>
-    <div class="item">
-      <input type="checkbox" id="todo2" />
-      <label for="todo2">Forget React</label>
+    <div class="items">
+      <div class="item completed">
+        <input checked="checked" type="checkbox" id="todo1" />
+        <label for="todo1">Learn React</label>
+      </div>
+      <div class="item">
+        <input type="checkbox" id="todo2" />
+        <label for="todo2">Forget React</label>
+      </div>
     </div>
   </div>
   <a class="waves-effect waves-light light-blue darken-2 btn filter disabled">All</a>
@@ -41,7 +43,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
 
-  <script src="js/app.js"></script>
+  <script src="js/app.js" defer async></script>
 </body>
 
 </html>
